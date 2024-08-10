@@ -1,0 +1,19 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #9aa5b1;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 95vh;
+  width: 80%;
+}
+.heading {
+  color: #cb8805;
+  font-weight: bold;
+  text-align: center;
+}
